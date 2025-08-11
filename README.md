@@ -1,5 +1,3 @@
-# problem-solving
-
 # Problem Solving - Coding Challenges Repository
 
 Bienvenue dans ce dépôt dédié à la résolution de problèmes d'algorithmique et de programmation.
